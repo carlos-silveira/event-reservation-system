@@ -39,7 +39,7 @@ And our frontend (React)
 ```
 npm run dev
 ```
-##Screenshots of application running
+## Screenshots of application running
 ![Welcome](https://i.ibb.co/LpbDCTR/screenshot-1.png)
 ![Dashboard](https://i.ibb.co/qDmN5sp/screenshot-2.png)
-![Crete Event Page](https://i.ibb.co/2t27DRF/screenshot-3.png)
+![Create Event Page](https://i.ibb.co/2t27DRF/screenshot-3.png)

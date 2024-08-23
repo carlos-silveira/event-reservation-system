@@ -42,4 +42,4 @@ npm run dev
 ## Screenshots of application running
 ![Welcome](https://i.ibb.co/LpbDCTR/screenshot-1.png)
 ![Dashboard](https://i.ibb.co/qDmN5sp/screenshot-2.png)
-![Create Event Page](https://i.ibb.co/2t27DRF/screenshot-3.png)
+![Create Event View]([https://i.ibb.co/2t27DRF/screenshot-3.png](https://i.ibb.co/BgRbhMP/Captura-desde-2024-08-22-19-37-09.png))
